@@ -1,0 +1,11 @@
+project_id,project_name,owner,sponsor,priority,approved_budget,forecast_budget,milestone_due,milestone_status,last_status_update,blocker,status
+P-101,ERP Modernization,Ana Lopez,COO,Critical,500000,585000,2026-09-10,Open,2026-09-16,Vendor integration delayed,Amber
+P-102,Warehouse Automation,James Lee,VP Operations,High,280000,295000,2026-09-15,Open,2026-10-03,Robotics testing,Amber
+P-103,Customer Portal,Sofia Chen,CMO,Medium,120000,118000,2026-10-20,Open,2026-10-05,,Green
+P-104,Data Governance,David Park,CIO,High,175000,201000,2026-10-15,Open,2026-10-06,,Amber
+P-105,HR Onboarding,Emma Brooks,CHRO,Medium,85000,80000,2026-09-01,Complete,2026-10-04,,Green
+P-106,Finance Reporting,Noah Evans,CFO,High,90000,92000,2026-10-01,Open,2026-09-12,Source data missing,Amber
+P-107,Security Remediation,Maya Singh,CISO,Critical,220000,225000,2026-10-30,Open,2026-10-06,Access review pending,Red
+P-108,Mobile Inventory,,VP Supply Chain,Medium,65000,64000,2026-10-25,Open,2026-10-07,,Green
+P-109,Manufacturing Analytics,Olivia Jones,VP Manufacturing,Low,140000,139000,2026-11-01,Open,2026-10-07,,Green
+P-110,Cloud Migration,Liam Wilson,CIO,High,350000,400000,2026-09-25,Open,2026-09-20,Network dependencies,Amber
